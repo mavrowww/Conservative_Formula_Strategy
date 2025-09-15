@@ -78,7 +78,3 @@ This project is for **educational and analytical purposes only**.
 It does **not** constitute financial advice or investment recommendations.
 
 All analysis and code are original implementations based on publicly available research and historical data.
-
-
-
-
