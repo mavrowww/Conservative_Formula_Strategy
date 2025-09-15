@@ -28,6 +28,15 @@ The portfolio is rebalanced quarterly, with **100 equally-weighted stocks** sele
 
 *(Exact figures such as CAGR, Sharpe ratio, and Max Drawdown are provided in the notebook.)*
 
+**Cumulative Total Return (backtest period):**
+
+| Strategy   | Total Return |
+|------------|--------------|
+| Portfolio  | **719.46%**  |
+| SPY        | 659.04%      |
+| IWM        | 360.37%      |
+
+
 ![Cumulative NAV — Conservative Formula vs Benchmarks](https://github.com/user-attachments/assets/79b8945e-89a0-4339-a644-8abe88aa82a6)
 
 ![Portfolio Calendar-Year Returns](https://github.com/user-attachments/assets/2b1c0784-8594-4eb4-91ad-ec3db2499b39)
@@ -64,3 +73,4 @@ This project is for **educational and analytical purposes only**.
 It does **not** constitute financial advice or investment recommendations.
 
 All analysis and code are original implementations based on publicly available research and historical data.
+
