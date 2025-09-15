@@ -21,9 +21,9 @@ The portfolio is rebalanced quarterly, with **100 equally-weighted stocks** sele
 ---
 
 ## Key Results
-- Backtests show outperformance versus benchmarks (SPY, IWM)  
-- Exhibits lower volatility and drawdowns than market indices  
-- Delivers higher risk-adjusted returns (Sharpe ratio > benchmarks)  
+- Backtests show consistent outperformance versus benchmarks (SPY, IWM)  
+- Lower volatility and drawdowns compared to market indices  
+- Higher risk-adjusted returns (Sharpe ratio above benchmarks)  
 - Results account for transaction costs  
 
 *(Exact figures such as CAGR, Sharpe ratio, and Max Drawdown are provided in the notebook.)*
@@ -41,6 +41,11 @@ The portfolio is rebalanced quarterly, with **100 equally-weighted stocks** sele
 
 ![Portfolio Calendar-Year Returns](https://github.com/user-attachments/assets/2b1c0784-8594-4eb4-91ad-ec3db2499b39)
 
+
+## View the Notebook
+
+- [View on nbviewer](https://nbviewer.org/github/mavrowww/Conservative_Formula_Strategy/blob/main/Conservative_Formula_Strategy.ipynb)  
+- [Open in Google Colab](https://colab.research.google.com/github/mavrowww/Conservative_Formula_Strategy/blob/main/Conservative_Formula_Strategy.ipynb)
 
 ---
 
@@ -73,4 +78,7 @@ This project is for **educational and analytical purposes only**.
 It does **not** constitute financial advice or investment recommendations.
 
 All analysis and code are original implementations based on publicly available research and historical data.
+
+
+
 
