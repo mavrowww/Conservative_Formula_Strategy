@@ -12,6 +12,11 @@ selecting stocks based on three factors:
 
 The portfolio is rebalanced quarterly, with **100 equally-weighted stocks** selected each period.
 
+## View the Notebook
+
+- [View on nbviewer](https://nbviewer.org/github/mavrowww/Conservative_Formula_Strategy/blob/main/Conservative_Formula_Strategy.ipynb)  
+- [Open in Google Colab](https://colab.research.google.com/github/mavrowww/Conservative_Formula_Strategy/blob/main/Conservative_Formula_Strategy.ipynb)
+
 ---
 
 ## Project Structure
@@ -73,5 +78,6 @@ This project is for **educational and analytical purposes only**.
 It does **not** constitute financial advice or investment recommendations.
 
 All analysis and code are original implementations based on publicly available research and historical data.
+
 
 
