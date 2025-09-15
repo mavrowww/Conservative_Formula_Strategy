@@ -44,8 +44,9 @@ The portfolio is rebalanced quarterly, with **100 equally-weighted stocks** sele
 
 ## View the Notebook
 
-- [View on nbviewer](https://nbviewer.org/github/mavrowww/Conservative_Formula_Strategy/blob/main/Conservative_Formula_Strategy.ipynb)  
+- [View on nbviewer](https://nbviewer.org/github/mavrowww/Conservative_Formula_Strategy/blob/main/Conservative_Formula_Strategy.ipynb?flush_cache=true)  
 - [Open in Google Colab](https://colab.research.google.com/github/mavrowww/Conservative_Formula_Strategy/blob/main/Conservative_Formula_Strategy.ipynb)
+
 
 ---
 
